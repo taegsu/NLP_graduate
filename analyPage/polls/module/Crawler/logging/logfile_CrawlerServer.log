@@ -1,0 +1,111 @@
+2019-05-08 01:38:15,687 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-08 01:44:50,069 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-08 01:44:58,449 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-08 01:46:17,451 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-08 01:47:04,930 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-08 01:47:35,263 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-08 01:48:34,835 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-08 01:48:40,270 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-08 01:48:42,633 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-08 01:50:36,738 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-08 01:50:44,087 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-08 01:50:48,400 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-08 01:50:48,404 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 반바지
+2019-05-08 01:51:40,093 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-08 01:53:02,941 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-08 01:53:07,267 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-08 01:53:07,270 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 반바지
+2019-05-08 01:53:27,622 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-08 01:57:30,876 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-08 01:57:37,165 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-08 01:57:37,167 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 반바지
+2019-05-08 01:59:48,951 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-08 01:59:55,608 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-08 02:00:02,007 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-08 02:00:02,010 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 반바지
+2019-05-08 02:00:31,497 - Crawler_Server_log - DEBUG - keyword save - musinsa : 1  insta : 0
+2019-05-08 02:00:44,076 - Crawler_Server_log - DEBUG - keyword load - musinsa : 1  insta : 0
+2019-05-08 02:00:46,384 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-08 02:04:46,707 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-08 02:05:03,901 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-08 02:05:16,191 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-08 02:05:16,196 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 반바지
+2019-05-08 02:06:07,774 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-08 02:06:18,104 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-08 02:06:24,491 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-08 02:06:24,498 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 반바지
+2019-05-08 02:06:52,952 - Crawler_Server_log - DEBUG - keyword save - musinsa : 1  insta : 0
+2019-05-08 02:07:01,368 - Crawler_Server_log - DEBUG - keyword load - musinsa : 1  insta : 0
+2019-05-08 02:07:03,667 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-08 02:07:03,675 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 청바지
+2019-05-08 02:07:08,268 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-08 02:11:43,270 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-08 02:11:53,558 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-08 02:11:53,571 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 청바지
+2019-05-08 02:12:11,556 - Crawler_Server_log - DEBUG - Crawling Start - instagram : 1
+2019-05-08 02:12:11,563 - Crawler_Server_log - DEBUG - Crawling - instagram - keyword : 청바지
+2019-05-08 02:12:45,946 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 1
+2019-05-08 02:13:06,317 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 1
+2019-05-08 02:13:08,597 - Crawler_Server_log - DEBUG - Crawling Start - instagram : 1
+2019-05-08 02:13:08,603 - Crawler_Server_log - DEBUG - Crawling - instagram - keyword : 청바지
+2019-05-08 02:13:12,103 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-15 14:10:12,862 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-15 14:36:28,897 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-16 03:03:43,918 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-16 03:28:14,219 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-16 03:30:47,190 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 청바지
+2019-05-16 03:30:50,456 - Crawler_Server_log - DEBUG - keyword save - musinsa : 3  insta : 0
+2019-05-16 03:31:17,955 - Crawler_Server_log - DEBUG - keyword load - musinsa : 3  insta : 0
+2019-05-16 03:31:20,380 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 3
+2019-05-16 03:31:20,383 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 청바지
+2019-05-16 03:31:29,006 - Crawler_Server_log - DEBUG - keyword save - musinsa : 2  insta : 0
+2019-05-16 03:31:54,945 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-16 03:40:50,143 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-16 03:40:55,964 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-16 03:42:54,245 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-16 03:42:54,253 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 청바지
+2019-05-16 03:43:01,732 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-16 03:43:10,008 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-16 03:48:34,283 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-16 03:48:34,286 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 청바지
+2019-05-16 03:48:37,704 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-16 03:48:55,784 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-16 04:19:06,066 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-16 04:19:06,069 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 청바지
+2019-05-16 04:19:08,141 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-16 04:19:46,893 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-16 04:22:43,350 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-16 04:22:43,353 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 청바지
+2019-05-16 04:22:45,108 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-16 04:23:26,388 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-16 04:40:37,184 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-16 04:40:45,192 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-16 04:52:05,691 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-16 04:52:05,694 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 오버핏
+2019-05-16 04:52:10,747 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-16 04:52:29,782 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-16 05:05:42,558 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-16 05:05:47,935 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-16 05:49:34,539 - Crawler_Server_log - DEBUG - keyword save - musinsa : 0  insta : 0
+2019-05-16 16:27:22,187 - Crawler_Server_log - DEBUG - keyword load - musinsa : 0  insta : 0
+2019-05-16 16:32:14,462 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 1
+2019-05-16 16:32:14,525 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 청바지
+2019-05-16 16:45:43,668 - Crawler_Server_log - DEBUG - keyword save - musinsa : 5  insta : 0
+2019-05-16 18:37:45,616 - Crawler_Server_log - DEBUG - keyword load - musinsa : 5  insta : 0
+2019-05-16 18:37:47,914 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 5
+2019-05-16 18:37:47,920 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 청바지
+2019-05-16 18:57:00,836 - Crawler_Server_log - DEBUG - keyword save - musinsa : 4  insta : 0
+2019-05-17 20:48:54,980 - Crawler_Server_log - DEBUG - keyword load - musinsa : 4  insta : 0
+2019-05-17 20:48:57,273 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 4
+2019-05-17 20:48:57,279 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 청바지
+2019-05-17 20:50:53,038 - Crawler_Server_log - DEBUG - keyword save - musinsa : 3  insta : 0
+2019-05-17 20:52:02,074 - Crawler_Server_log - DEBUG - keyword load - musinsa : 3  insta : 0
+2019-05-17 20:52:04,636 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 3
+2019-05-17 20:52:04,640 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 청바지
+2019-05-17 20:54:56,654 - Crawler_Server_log - DEBUG - Crawling Start - instagram : 1
+2019-05-17 20:54:56,796 - Crawler_Server_log - DEBUG - Crawling - instagram - keyword : 농구화
+2019-05-17 20:59:48,121 - Crawler_Server_log - DEBUG - Crawling Complete - instagram
+2019-05-17 21:09:43,937 - Crawler_Server_log - DEBUG - keyword save - musinsa : 2  insta : 0
+2019-05-23 13:34:48,220 - Crawler_Server_log - DEBUG - keyword load - musinsa : 2  insta : 0
+2019-05-23 13:34:50,315 - Crawler_Server_log - DEBUG - Crawling Start - musinsa : 2
+2019-05-23 13:34:50,325 - Crawler_Server_log - DEBUG - Crawling - musinsa - keyword : 청바지
