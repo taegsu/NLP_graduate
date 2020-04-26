@@ -21,7 +21,8 @@
 > pip install -r requirements.txt
 ```
 
-### 4. Run server
+### 4. Run django server & crawler server
 ```
+> python polls/module/Crawler/crawler_server.py
 > python manage.py runserver
 ```
