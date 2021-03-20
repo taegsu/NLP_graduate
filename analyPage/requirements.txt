@@ -9,7 +9,7 @@ Django==3.0.5
 Flask==1.1.2
 idna==2.9
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.14.1
 JPype1==0.7.3
 konlpy==0.5.2
