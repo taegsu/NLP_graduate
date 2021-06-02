@@ -31,5 +31,5 @@ sklearn==0.0
 sqlparse==0.3.1
 tweepy==3.8.0
 tzlocal==2.0.0
-urllib3==1.25.9
+urllib3==1.26.5
 Werkzeug==1.0.1
